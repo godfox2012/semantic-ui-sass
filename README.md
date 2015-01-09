@@ -1,3 +1,5 @@
+delete fonts.googleapis.com from app/assets/stylesheets/semantic-ui/globals/_site.scss
+
 # Semantic UI for Sass
 
 `semantic-ui-sass` is an Sass-powered version of [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) and ready to drop into Rails & Compass.
